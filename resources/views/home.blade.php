@@ -15,7 +15,7 @@
         <img :src="image" alt="Image" class="absolute inset-0 z-10 h-full w-full object-cover opacity-70" />
         <figcaption class="absolute inset-x-0 bottom-1 z-20 w-96 mx-auto p-4 font-light text-sm text-center tracking-widest leading-snug bg-gray-300 bg-opacity-25">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium voluptate iure sapiente sequi dolorem provident eum eaque maxime repellat eligendi perferendis, 
-            nostrum soluta esse. Vel unde nisi doloribus itaque?
+            nostrum soluta esse. Vel unde nisi doloribus?
         </figcaption>
         </figure>
     </template>
