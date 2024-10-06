@@ -49,8 +49,12 @@
         <div class="basis-1/2">
             <span class="px-5"><h2 class="text-center font-serif font-semibold text-2xl opacity-70">About Us</h2></span>
             <p class="text-justify">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis similique maxime sed earum cumque veniam voluptates suscipit quo eius id consequatur, cum dolorem. Perferendis earum placeat minus commodi mollitia? Veritatis.
-                    Deserunt soluta velit voluptas neque, consequatur, cumque sed corrupti in delectus placeat voluptate ut at nam voluptates porro est ducimus, eius enim itaque. Adipisci explicabo at vitae iusto repudiandae distinctio.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut inventore culpa dolor maiores. Illo animi adipisci
+                aspernatur cum quo magnam rerum itaque labore dolor esse. Blanditiis sint expedita aliquid nemo?
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet expedita exercitationem iste quidem voluptatibus pariatur, 
+                repellendus delectus voluptatem molestias modi. Ab voluptate laudantium velit fuga nemo aliquam natus iure beatae?
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate corporis magnam neque doloribus explicabo iusto unde velit. 
+                Veniam, enim? Quas minima corrupti, officia esse voluptates tenetur deleniti. Veniam, adipisci totam!
             </p>
         </div>
     </div>
