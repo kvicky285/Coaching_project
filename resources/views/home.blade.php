@@ -53,8 +53,7 @@
                     minus non enim exercitationem sequi ipsum alias esse architecto sapiente nesciunt dicta est aperiam 
                     laborum eius provident.Nostrum sapiente perferendis dicta culpa enim ratione quae deleniti fuga, omnis, 
                     ad possimus,illum est earum sed! Ea, nihil voluptas distinctio voluptatibus nulla neque, praesentium 
-                    porro nisi quasi,necessitatibus sit.Illo necessitatibus quae impedit a? Rerum quis dolore dolorem ad 
-                    numquam nostrum temporibus incidunt minus.
+                    porro nisi quasi,necessitatibus sit.Illo necessitatibus quae impedit a?
             </p>
         </div>
     </div>
