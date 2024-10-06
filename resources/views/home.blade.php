@@ -54,8 +54,7 @@
                     laborum eius provident.Nostrum sapiente perferendis dicta culpa enim ratione quae deleniti fuga, omnis, 
                     ad possimus,illum est earum sed! Ea, nihil voluptas distinctio voluptatibus nulla neque, praesentium 
                     porro nisi quasi,necessitatibus sit.Illo necessitatibus quae impedit a? Rerum quis dolore dolorem ad 
-                    numquam nostrum temporibus incidunt minus soluta. Ab, consequuntur!Et distinctio itaque, possimus beatae 
-                    velit laudantium enim modi ipsa veniam soluta.
+                    numquam nostrum temporibus incidunt minus.
             </p>
         </div>
     </div>
