@@ -49,11 +49,8 @@
         <div class="basis-1/2">
             <span class="px-5"><h2 class="text-center font-serif font-semibold text-2xl opacity-70">About Us</h2></span>
             <p class="text-justify">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo eveniet, facilis fuga quaerat 
-                    minus non enim exercitationem sequi ipsum alias esse architecto sapiente nesciunt dicta est aperiam 
-                    laborum eius provident.Nostrum sapiente perferendis dicta culpa enim ratione quae deleniti fuga, omnis, 
-                    ad possimus,illum est earum sed! Ea, nihil voluptas distinctio voluptatibus nulla neque, praesentium 
-                    porro nisi quasi,necessitatibus sit.Illo necessitatibus quae impedit a?
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis similique maxime sed earum cumque veniam voluptates suscipit quo eius id consequatur, cum dolorem. Perferendis earum placeat minus commodi mollitia? Veritatis.
+                    Deserunt soluta velit voluptas neque, consequatur, cumque sed corrupti in delectus placeat voluptate ut at nam voluptates porro est ducimus, eius enim itaque. Adipisci explicabo at vitae iusto repudiandae distinctio.
             </p>
         </div>
     </div>
